@@ -46,6 +46,16 @@ tf.tidy(() => {
 });
 
 ```
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/zqwitt/PaCMAP_TFjs/blob/main/pacmap/example/mammoth-3d.png" alt="Mammoth 3D" width="300"/>
+        </td>
+        <td>
+            <img src="https://github.com/zqwitt/PaCMAP_TFjs/blob/main/pacmap/example/mammoth-2d.png" alt="Mammoth 2D" width="300"/>
+        </td>
+    </tr>
+</table>
 
 ### Constructor Options
 
