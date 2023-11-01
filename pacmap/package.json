@@ -1,0 +1,18 @@
+{
+  "name": "pacmap_tfjs",
+  "version": "0.0.1",
+  "description": "PaCMAP_TFjs is a JavaScript implementation of PaCMAP using Tensorflow.js to allow for speedy euclidean distance operations, top-K neighbours calculations, and adagrad optimizations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Zachary Witt",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.11.0",
+    "@tensorflow/tfjs-core": "^4.11.0",
+    "@tensorflow/tfjs-node": "^4.11.0",
+    "annoy": "^4.0.0",
+    "kd-tree-javascript": "^1.0.3",
+    "umap-js": "^1.3.3"
+  }
+}
